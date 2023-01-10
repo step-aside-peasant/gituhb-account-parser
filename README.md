@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# GitHub account/repo parser
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+If for some reason you can't start the app, you can visit the already deployed app by following this link https://gituhb-account-parser.vercel.app
+
+## How to start
+
+### First of all run `npm i`
 
 In the project directory, you can run:
 
